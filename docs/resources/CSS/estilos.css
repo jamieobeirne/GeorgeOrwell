@@ -1,0 +1,179 @@
+
+h1{
+	font-size: 42px;
+}
+
+.header{
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	margin-bottom: -10px;
+}
+
+
+.dossier{
+	font-weight: normal;
+}
+
+ul{
+	list-style-type: none;
+}
+
+ul a:link{
+	text-decoration: none;
+}
+
+.menuBar {
+	 font-size: 14px;
+	 padding-top: 8px;
+	 color: black;
+}
+
+a {
+  color: black;
+  font-weight: normal;
+}	
+
+
+a:visited{
+	color: blue;
+}
+
+a:hover{
+	color: purple;
+}
+
+
+.bodyHeader{
+	font-family: "Times New Roman", Times, serif;
+	text-align: center;	 
+}
+
+
+#orwellPhoto{
+ 	margin-top: -19px;
+}
+
+
+h2 {
+	font-size: 42px;
+	padding-top: 20px;
+}
+
+
+.bodyText{
+	font-size: 18px;
+	text-align: left;
+	padding-left:190px;
+	padding-right: 185px;
+	line-height: 1.6;
+	padding-bottom: 20px;
+
+}
+
+
+.listHeading{
+	font-size: 32px;
+	padding-left:190px;
+}
+
+
+.list{
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 1.6;
+	padding-left:235px;
+	margin-top: -20px;	
+}
+
+
+li{
+	font-weight: normal;
+	font-size: 22px;
+}
+
+ol ul li {
+	font-size: 18px;
+	/*suggested by Stack Overflow to target nested items 
+	*https://stackoverflow.com/questions/4830624/target-first-level-lis-and-not-the-nested-lis
+	*/
+}
+
+
+.subBodyHeader{
+	font-size: 25px;
+	font-weight: normal;
+	padding-left:192px; 
+	padding-right:192px;
+	padding-top:7px;
+	padding-bottom: 7px;
+}
+
+.authorName{
+	font-size: 22px;
+	text-align: center;
+	font-weight: normal;
+	padding-bottom: 0;
+	margin-bottom: 0;
+
+}
+
+.date{
+	margin-top:0;
+	padding-top: 5px;
+	padding-bottom: 30px;
+}
+
+
+.artistCaption{
+	font-size: 13px;
+	font-weight: normal;
+}
+
+
+.verticalLine{
+	border-left: 6px solid black;
+  	height: 260px;
+  	margin-left: 300px; 	
+}
+
+
+.pullQoute{
+	font-size: 18px;
+	text-align: left;
+	line-height: 1.6;
+	padding-left: 15px;
+	padding-right: 330px;
+	padding-bottom: 100px;
+}
+
+
+.bodyImages{
+	text-align: center;
+}
+
+
+
+.footer{
+	text-align: center;
+	padding-top: 30px;
+}
+
+h5{
+	font-weight: normal;
+	padding-bottom: 20px;
+}
+
+h6{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	font-size: 12px;
+}
+
+/*-- James O’Beirne
+ *Asignatura: HTML y CSS
+ *PEC 1
+ *Octubre  26, 2019
+ */
+
+
+
